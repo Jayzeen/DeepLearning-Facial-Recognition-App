@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+application_data
+/data
+__pycache__
+faceID_App
+training_checkpoints
+lfw.tgz
+max-pooling.jpg
+**.h5
